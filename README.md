@@ -29,7 +29,7 @@ The description of the column names can be found in the column_names.md file in 
 
  The data is cleaned, the null values are solved, some data types are changed, stantardizations, normalizations and logarithmic transformations are made. 
  
- Normality, linearity and multicollinearity are checked. Visualisations are made. Baseline model is constructed. Model is refined again and again using many methods including normality check with q-q plots, homoscedasticity check with scatter plots of residuals, multicollinearity check with Variance Inflation Factor and K-fold Cross Validation.
+ Normality, linearity and multicollinearity are checked. Visualisations are made. Baseline model is constructed. Model is refined again and again using many methods including normality check with q-q plots, homoscedasticity check with scatter plots of residuals, multicollinearity check with Variance Inflation Factor stepwise selection and K-fold Cross Validation.
  
 
 
