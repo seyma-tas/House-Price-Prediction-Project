@@ -60,3 +60,7 @@ The answer for this question is location and square feet of living.
 After a house is bought you can not change the parameters like location, you can change the square feet of the house but it is very expensive. You can do some intelligent renovations and sell at the right time(sell in May when the housing market is active)
 
 <img src="img/sale_month.png" >
+
+
+## Conclusion
+In this project I asked and answered three business questions.I visualised the answers using the given data. I made a model to predict the house prices. The success of the model is 89%. The model can be improved with other parameters.
